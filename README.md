@@ -1,5 +1,4 @@
-# crud_exercises
-
+# telegram-clone-flutter
 A new Flutter project.
 
 ## Getting Started
