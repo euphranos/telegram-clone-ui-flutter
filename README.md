@@ -1,15 +1,8 @@
 # telegram-clone-flutter
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_8](https://user-images.githubusercontent.com/109268253/204838251-a8c53b89-95fb-40a9-88b2-088c77131fee.png)
+![Screenshot_9](https://user-images.githubusercontent.com/109268253/204838263-195dbb09-ba68-4194-bff5-fe0350973937.png)
+![Screenshot_11](https://user-images.githubusercontent.com/109268253/204838269-03f90102-a518-4df9-82bc-225674e1c5f2.png)
+![Screenshot_12](https://user-images.githubusercontent.com/109268253/204838271-d4cf8ba9-6c78-4ad8-9eef-73ff216863d4.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
